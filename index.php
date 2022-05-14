@@ -37,9 +37,6 @@ if (isset($_REQUEST['login_button']) === true){
 
 		}//end of correct username and password
 
-
-
-
 }//end of login button
 
 
