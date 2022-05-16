@@ -67,7 +67,7 @@ body {
 
             <div class="px-4 py-3">
                 <div class="p-4 rounded shadow-sm bg-light">
-                    <h1 class="text-info text-center">Crime Stories</h1>
+                    <h1 class="text-info text-center">Fantasy Stories</h1>
                     <?php
                         echo "<p class='text-center blockquote-footer'>NOTE: you can only access these links online. Happy Reading, Happy Collecting! <p/>";
                     ?>
